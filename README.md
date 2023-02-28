@@ -4,7 +4,6 @@ includes many other clients.
 The server do the following:
 1- Enables many clients to join the chat by providing their name.
 2- Sends all text received from any of the connected clients to all clients.
-The user will provide his/her name before start chatting.
 our program print appropriate messages that shows:
 • A connection has been established.
 • A name must be entered.
